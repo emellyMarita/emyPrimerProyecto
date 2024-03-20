@@ -8,7 +8,7 @@ function result () {
   {
     score ++;  
   };
-  document.write("Obtuviste "+ score + " respuestas correctas");
+  document.getElementByID('verresultados').innerHTML='Obtuviste '+score+ 'puntos';
 }
 
 
