@@ -1,5 +1,5 @@
 function result () {
-  var score = 0;
+  var score = 0 ;
   if(document.getElementById ('correct1').checked)
   {
     score ++;
@@ -8,5 +8,5 @@ function result () {
   {
     score ++;
   }
-  window.alert("Your score is "+score)
+  window.alert("Obtuviste "+ score + " respuestas correctas")
 }
