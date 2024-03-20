@@ -1,3 +1,10 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:"Poppins",sans-serif;
+  box-sizing:border-box
+}
+
 body{
     font-family: fantasy;
     background-color: #ece2c6; 
@@ -6,3 +13,8 @@ body{
     margin-right:auto;
     margin-top: 200px;
 }
+
+h1, p{
+  color:brown;
+}
+
