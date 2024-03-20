@@ -3,13 +3,12 @@ function result () {
   if(document.getElementById ('correct1').checked)
   {
     score ++; 
-    document.getElementById('').style.display='block'
   }
  if(document.getElementById ('correct2').checked)
   {
-    score ++;
-  }
-  window.alert("Obtuviste "+ score + " respuestas correctas")
+    score ++;  
+  };
+  alert("Obtuviste "+ score + " respuestas correctas");
 }
 
 
