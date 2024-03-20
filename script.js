@@ -12,5 +12,4 @@ function result () {
   window.alert("Obtuviste "+ score + " respuestas correctas")
 }
 
-.correct1, .correct2
 

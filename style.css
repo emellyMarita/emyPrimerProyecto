@@ -30,3 +30,13 @@ h1, p{
 .correctoUno{
   display:none
 }
+
+.check1, .check2{
+  margin-top: 20px;
+  height: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 50px;
+  display:none
+}
+  
