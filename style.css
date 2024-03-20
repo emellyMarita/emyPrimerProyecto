@@ -8,7 +8,7 @@
 body{
     font-family: fantasy;
     background-color: #ece2c6; 
-    width: 600px;
+    width: 700px;
     margin-left:auto; 
     margin-right:auto;
     margin-top: 100px;
@@ -37,6 +37,6 @@ h1, p{
   padding-left: 20px;
   padding-right: 20px;
   border-radius: 50px;
-  display:none
+  display:block
 }
   
