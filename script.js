@@ -8,5 +8,5 @@ function result () {
   {
     score ++;
   }
-  alert.window("Your score is "+score)
+  window.alert("Your score is "+score)
 }
