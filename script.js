@@ -8,7 +8,9 @@ function result () {
   {
     score ++;  
   };
-  document.getElementById('puntuacion').innerHTML= 'Tu puntuación es de'+score;
 }
 
 
+function mostrarPuntuacion (){
+   document.getElementById('puntuacion').innerHTML= 'Tu puntuación es de '+score;
+}
