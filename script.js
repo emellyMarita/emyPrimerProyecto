@@ -1,9 +1,5 @@
-function  btnVerificar() {
-  var txt;
-  if (confirm("Press a button!")) {
-    txt = "You pressed OK!";
-  } else {
-    txt = "You pressed Cancel!";
-  }
-  document.getElementById("demo").innerHTML = txt;
+
+
+function  btnVerificar(){
+  document.getElementById("correctoUno").innerHTML = "block"
 }
