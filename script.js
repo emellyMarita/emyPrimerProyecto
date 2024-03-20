@@ -2,7 +2,8 @@ function result () {
   var score = 0 ;
   if(document.getElementById ('correct1').checked)
   {
-    score ++;
+    score ++; 
+    document.getElementById('').style.display='block'
   }
  if(document.getElementById ('correct2').checked)
   {
@@ -10,3 +11,6 @@ function result () {
   }
   window.alert("Obtuviste "+ score + " respuestas correctas")
 }
+
+.correct1, .correct2
+
