@@ -8,7 +8,7 @@ function result () {
   {
     score ++;  
   };
-  alert("Obtuviste "+ score + " respuestas correctas");
+  document.write("Obtuviste "+ score + " respuestas correctas");
 }
 
 
